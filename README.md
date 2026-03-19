@@ -47,7 +47,7 @@ Para realizar este curso, utilizei um ambiente de desenvolvimento moderno e leve
 
 1.  **Clone o projeto:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone [https://github.com/cmigueldev/curso_JavaScript.git](https://github.com/cmigueldev/curso_JavaScript.git)
     ```
 2.  **Navegue pelas pastas:**
     Os arquivos estão organizados por módulos ou aulas, conforme a evolução do curso.
